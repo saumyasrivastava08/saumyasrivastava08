@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on React and I love Coding as well🤣
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 😄 Pronouns: Richu
