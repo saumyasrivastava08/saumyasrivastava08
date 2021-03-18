@@ -18,6 +18,11 @@
 <br />
 <br />
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyasrivastava08&" alt="saumyasrivastava08" /></p>
+
 ### Connect with me:
 
 
