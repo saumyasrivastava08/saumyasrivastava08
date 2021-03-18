@@ -25,15 +25,16 @@
 
 ### Connect with me:
 
+<p align="left">
+<a href="https://twitter.com/_srivastava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_srivastava" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saumya-sanjay-srivastava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saumya-sanjay-srivastava" height="30" width="40" /></a>
+<a href="https://instagram.com/_.saumya_sri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.saumya_sri" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/queen_saumya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="queen_saumya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/saumyasanjay08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="saumyasanjay08" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/saumyasanjay08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="saumyasanjay08" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/queen_saumya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="queen_saumya" height="30" width="40" /></a>
+</p>
 
-
-
-
-[<img align="left" alt="Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/saumya-sanjay-srivastava)
-[<img align="left" alt="Profile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_.saumya_sri/)
-
-<br />
-<br />
 
 ### Languages and Tools:
 
