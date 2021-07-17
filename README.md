@@ -5,12 +5,12 @@
 ![](https://komarev.com/ghpvc/?username=your-github-saumyasrivastava08)
 <br />
 
-## I'm a Front-End Developer and a Little Coder!!
+## I'm a Front-End Developer , Freelancer &amp; Problem Solver!!
 
-- 🌱 I’m currently working on React and I love Coding as well🤣
+- 🌱 I’m currently working on React and I love Coding as well.
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Contribute more to Open Source projects 
-- 🌱 I’m currently learning Node.js 
+- 🥅 2021 Goals: Contribute more to Projects 
+- 🌱 I’m currently learning React Native  
 - 👯 I’m looking to collaborate on Open Source Projects
 - 😄 Pronouns: Richu
 - ⚡ Fun fact: I love making Reels on Instagram
