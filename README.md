@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building enterprise-scale **fleet management microservices** at **Creospan (Hertz)**
+- 🔭 Currently building enterprise-scale **fleet management microservices** at **Creospan **
 - ⚙️ Working across **Bun + Elysia** backends, **React microfrontends** (Module Federation, Rspack), and **AWS** infrastructure
 - 🏗️ Experienced in **microfrontend architecture**, **Kubernetes** deployments, and **Terraform** provisioning
 - 🤖 Leveraging **AI-driven development workflows** (Claude Opus) for faster iteration
